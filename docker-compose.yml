@@ -4,3 +4,5 @@ services:
   dob-web:
     build: .
     image: iatanasov77/devops-basics:v1
+    ports:
+      - 8080:80
