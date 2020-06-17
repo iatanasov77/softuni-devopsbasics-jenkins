@@ -1,6 +1,6 @@
 version: '2'
 
 services:
-  man:
+  dob-web:
     build: .
     image: iatanasov77/devops-basics:v1
